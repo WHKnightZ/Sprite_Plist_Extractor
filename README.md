@@ -8,8 +8,8 @@ First, make sure you have both the png and plist files in the same directory, ex
 
 Second, open Sprite Plist Extractor.exe and select plist file, Extract
 
-All images will be generated in Output folder, Like this:
+Then, All images will be generated in Output folder, Like this:
 
-![Image] (https://i.imgur.com/Erg5PGO.png)
+![Image](https://i.imgur.com/Erg5PGO.png)
 
 Good luck!
